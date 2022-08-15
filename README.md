@@ -6,6 +6,6 @@ and mark completed todos using checkbox.
 Also you can show completed/active todos using appropriate buttons.
 Counter will help you not to forget how many things you have left to do.
 
-[Enjoy :)]()
+[Enjoy :)](https://aedricson.github.io/todo-app/)
 
 Technologies used: React, React router, TypeScript, JavaScript
