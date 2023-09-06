@@ -94,6 +94,7 @@ export const TodoApp: React.FC = () => {
             placeholder="What needs to be done?"
             value={todoTitle}
             onChange={(event) => setTodoTitle(event.target.value)}
+            onBlur={handleAddTodo}
           />
         </form>
       </header>
