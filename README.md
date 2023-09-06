@@ -8,4 +8,4 @@ Counter will help you not to forget how many things you have left to do.
 
 [Create todo list.](https://aedricson.github.io/todo-app/)
 
-Technologies used: TypeScript, React, React Router, React Context, CSS.
+Technologies used: HTML, CSS, TypeScript, React, React Router, React Context.
